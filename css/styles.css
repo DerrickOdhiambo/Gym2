@@ -74,7 +74,7 @@ h1{
 }
 .sign >h3:hover{
     color: rgb(145, 12, 12);
-    background-color: gainsboro;
+    background-color: rgb(3, 150, 150);
     box-shadow: 2px 2px 3px darkred;
 }
 p{
